@@ -13,6 +13,8 @@ public class DemoTwo {
 	}
 	public static void subtractNum (int c, int d){
 	System.out.println("Hello guys, this is Ariana");
+	
+	System.out.println(" Hi Ariana thank you!");
 		
 	}
 }
