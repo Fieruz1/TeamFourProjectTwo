@@ -6,4 +6,7 @@ public class DemoTwo {
 		//new
 		System.out.println("This Senond prject practice for GitHub");
 	}
+	public static void addNum(int a, int b) {
+		System.out.println(a+b);
+	}
 }
