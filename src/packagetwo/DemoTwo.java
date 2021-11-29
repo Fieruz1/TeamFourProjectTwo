@@ -8,5 +8,11 @@ public class DemoTwo {
 	}
 	public static void addNum(int a, int b) {
 		System.out.println(a+b);
+		
+		
+	}
+	public static void subtractNum (int c, int d){
+	System.out.println("Hello guys, this is Ariana");
+		
 	}
 }
